@@ -1,1 +1,2 @@
-# AppMobileLectia7_DurneaEugeniu
+# Lectia7
+Crearea Proiectului cu grafica bidimensionala
